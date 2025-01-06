@@ -6,7 +6,7 @@ nav_order: 2
 layout: page
 ---
 
-ABSTRACT uses of routinely collected data, that is information collected in healthcare records and medical tests as part of the delivery of care. This data has the potential to dramatically improve the health of the UK population, by preventing strokes from occurring. 
+BIRDI uses of routinely collected data, that is information collected in healthcare records and medical tests as part of the delivery of care. This data has the potential to dramatically improve the health of the UK population, by preventing strokes from occurring. 
 
 
 We recognise the key importance of using such data in a transparent, compliant and secure manner. We have and will continue to consult with stroke survivors, carers and the general public, to ensure that everything we do is in the public interest. The project has been reviewed and approved by a [local](https://www.plymouth.ac.uk/research/governance/research-ethics-policy) (University of Plymouth) and [national](https://www.hra.nhs.uk/approvals-amendments/what-approvals-do-i-need/research-ethics-committee-review/) (Health Research Authority) ethical review board. It is overseen by a study oversight committee, made up of stroke survivors, carers of stroke survivors, researchers, medical professionals and members of the general public.  

@@ -7,11 +7,11 @@ nav_order: 4
 layout: page
 ---
 
-ABSTRACT  complies with the [highest standard of data protection](https://sustainsw.ac.uk/our_data.html). All the data we use is [anonymised](https://sustainsw.ac.uk/our_data.html) within NHS systems prior to use. We undertake all feasible steps to ensure data is secure and that your [privacy is protected](https://sustainsw.ac.uk/our_data.html). We do however appreciate that some people may not wish their data to be used for health improvement research. 
+BIRDI  complies with the [highest standard of data protection](https://sustainsw.ac.uk/our_data.html). All the data we use is [anonymised](https://sustainsw.ac.uk/our_data.html) within NHS systems prior to use. We undertake all feasible steps to ensure data is secure and that your [privacy is protected](https://sustainsw.ac.uk/our_data.html). We do however appreciate that some people may not wish their data to be used for health improvement research. 
 
 
 
-If you would like to opt-out of ABSTRACT or if you have opted-out before but would like to opt-in ABSTRACT, please send an email to
+If you would like to opt-out of BIRDI or if you have opted-out before but would like to opt-in BIRDI, please send an email to
 [plh-tr.researchdataoptout@nhs.net](mailto:plh-tr.researchdataoptout@nhs.net?subject=Opt-out) containing the following information:
 
 - Specifying opt-out or opt-in
