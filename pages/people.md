@@ -64,7 +64,7 @@ title_color: rgb(255, 255, 255)
         {% capture Gideon_Adegboyega %}
 Dr Gideon Adegboyega is an NIHR Academic Clinical Fellow and Specialty Trainee in Neurosurgery at University of Plymouth and Southwest Neurosurgical Centre. His interests lie in traumatic brain injury, in particular assessing brain atropy and neuro-conginition following TBI and using AI to guide clinical decision-making. 
         {% endcapture %}
-        {% include person.html name="Hongrui Wang" image="/assets/img/Gideon_Adegboyega.jpg"
+        {% include person.html name="Gideon Adegboyega" image="/assets/img/Gideon_Adegboyega.jpg"
         introduction=Gideon_Adegboyega %}
 
 
