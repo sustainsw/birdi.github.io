@@ -65,6 +65,13 @@ Dr Gideon Adegboyega is an NIHR Academic Clinical Fellow and Specialty Trainee i
         introduction=Gideon_Adegboyega %}
 
 
+        {% capture Yasmin_Biston %}
+Yasmin Biston is a final-year medical student at UoP. She is particularly interested in the application of machine learning and deep learning algorithms in diagnosing and treating head and neck cancer. Her medical elective in Kuala Lumpur played a crucial role in shaping this interest, as she observed how AI is utilised within healthcare systems to  enhance patient outcomes.
+        {% endcapture %}
+        {% include person.html name="Yasmin Biston" image="/assets/img/Yasmin_Biston.jpg"
+        introduction=Yasmin_Biston %}
+
+
 
         {% capture intro_hongrui_wang %}
         Dr Hongrui Wang PhD is a data scientist with background of mathematics
