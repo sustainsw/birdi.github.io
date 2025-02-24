@@ -16,6 +16,51 @@ Dr Ellie Edlmann, FRCS Neurosurgery, PhD is a consultant <a href="https://www.pl
         {% include person.html name="Ellie Edlmann" image="/assets/img/Ellie_Edlmann.jpg"
         introduction=intro_ellie_edlmann %}
 
+        {% capture Gideon_Adegboyega %}
+Dr Gideon Adegboyega is an NIHR Academic Clinical Fellow and Specialty Trainee in Neurosurgery at University of Plymouth and Southwest Neurosurgical Centre. His interests lie in traumatic brain injury, in particular assessing brain atropy and neuro-conginition following TBI and using AI to guide clinical decision-making. 
+        {% endcapture %}
+        {% include person.html name="Gideon Adegboyega" image="/assets/img/Gideon_Adegboyega.jpg"
+        introduction=Gideon_Adegboyega %}
+
+
+        {% capture intro_megan_courtman %}
+        <a href="https://www.plymouth.ac.uk/staff/megan-courtman">Megan Courtman</a> is
+        a data scientist interested in using explainable AI to solve problems
+        in healthcare. Much of her work focuses on building computer vision 
+        models for medical imaging classification. She has won the <a
+        href="https://www.theabn.org/">Association of British Neurologists</a>
+        prize for best poster and the UoP <a
+        href="https://www.plymouth.ac.uk/student-life/your-studies/research-degrees/doctoral-college/researcher-development-programme/three-minute-thesis-competition">Three
+        Minute Thesis competition</a>. She is a member of the Involvement 
+        Steering Group at <a href="https://www.parkinsons.org.uk/">Parkinson's UK</a>, 
+        which provides support for the organisation's patient and public 
+        involvement (PPI) programme.
+        {% endcapture %}
+        {% include person.html name="Megan Courtman" image="/assets/img/Megan_Courtman.jpg"
+        introduction=intro_megan_courtman %}
+
+
+
+        {% capture intro_hongrui_wang %}
+        Dr Hongrui Wang PhD is a data scientist with background of mathematics
+        and statistics. He is a skilled software engineer. He is particularly
+        interested in data management, visulization, analysis and modelling for
+        healthcare and development of relevent tools. He has been instrumental
+        in developing the data pipeline software for anonymising DICOM image
+        data.
+        {% endcapture %}
+        {% include person.html name="Hongrui Wang" image="/assets/img/Hongrui_Wang.jpg"
+        introduction=intro_hongrui_wang %}
+
+
+
+
+        {% capture Yasmin_Biston %}
+Yasmin Biston is a final-year medical student at UoP. She is particularly interested in the application of machine learning and deep learning algorithms in diagnosing and treating head and neck cancer. Her medical elective in Kuala Lumpur played a crucial role in shaping this interest, as she observed how AI is utilised within healthcare systems to  enhance patient outcomes.
+        {% endcapture %}
+        {% include person.html name="Yasmin Biston" image="/assets/img/Yasmin_Biston.jpg"
+        introduction=Yasmin_Biston %}
+
         {% capture intro_stephen_mullin %}
         Dr Stephen Mullin is <a
         href="https://www.plymouth.ac.uk/staff/stephen-mullin">Associate
@@ -38,49 +83,4 @@ Dr Ellie Edlmann, FRCS Neurosurgery, PhD is a consultant <a href="https://www.pl
         {% include person.html name="Stephen Mullin" image="/assets/img/Stephen_Mullin.jpg" 
         introduction=intro_stephen_mullin %}
 
-
-        {% capture intro_megan_courtman %}
-        <a href="https://www.plymouth.ac.uk/staff/megan-courtman">Megan Courtman</a> is
-        a data scientist interested in using explainable AI to solve problems
-        in healthcare. Much of her work focuses on building computer vision 
-        models for medical imaging classification. She has won the <a
-        href="https://www.theabn.org/">Association of British Neurologists</a>
-        prize for best poster and the UoP <a
-        href="https://www.plymouth.ac.uk/student-life/your-studies/research-degrees/doctoral-college/researcher-development-programme/three-minute-thesis-competition">Three
-        Minute Thesis competition</a>. She is a member of the Involvement 
-        Steering Group at <a href="https://www.parkinsons.org.uk/">Parkinson's UK</a>, 
-        which provides support for the organisation's patient and public 
-        involvement (PPI) programme.
-        {% endcapture %}
-        {% include person.html name="Megan Courtman" image="/assets/img/Megan_Courtman.jpg"
-        introduction=intro_megan_courtman %}
-
-
-
-
-        {% capture Gideon_Adegboyega %}
-Dr Gideon Adegboyega is an NIHR Academic Clinical Fellow and Specialty Trainee in Neurosurgery at University of Plymouth and Southwest Neurosurgical Centre. His interests lie in traumatic brain injury, in particular assessing brain atropy and neuro-conginition following TBI and using AI to guide clinical decision-making. 
-        {% endcapture %}
-        {% include person.html name="Gideon Adegboyega" image="/assets/img/Gideon_Adegboyega.jpg"
-        introduction=Gideon_Adegboyega %}
-
-
-        {% capture Yasmin_Biston %}
-Yasmin Biston is a final-year medical student at UoP. She is particularly interested in the application of machine learning and deep learning algorithms in diagnosing and treating head and neck cancer. Her medical elective in Kuala Lumpur played a crucial role in shaping this interest, as she observed how AI is utilised within healthcare systems to  enhance patient outcomes.
-        {% endcapture %}
-        {% include person.html name="Yasmin Biston" image="/assets/img/Yasmin_Biston.jpg"
-        introduction=Yasmin_Biston %}
-
-
-
-        {% capture intro_hongrui_wang %}
-        Dr Hongrui Wang PhD is a data scientist with background of mathematics
-        and statistics. He is a skilled software engineer. He is particularly
-        interested in data management, visulization, analysis and modelling for
-        healthcare and development of relevent tools. He has been instrumental
-        in developing the data pipeline software for anonymising DICOM image
-        data.
-        {% endcapture %}
-        {% include person.html name="Hongrui Wang" image="/assets/img/Hongrui_Wang.jpg"
-        introduction=intro_hongrui_wang %}
 
