@@ -4,7 +4,7 @@ import qrcode
 from PIL import Image
 
 # The URL you want the QR code to point to
-url = 'https://abstract.sustainsw.ac.uk'
+url = 'https://birdi.sustainsw.ac.uk/'
 
 # Generate the QR code
 qr = qrcode.QRCode(
@@ -20,7 +20,7 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white").convert('RGB')
 
 # Load the logo or image you want to place in the middle of the QR code
-logo_display = Image.open('QR/logo_qr.png')
+logo_display = Image.open('QR/logo.png')
 
 # Ensure the logo is in RGBA mode to handle any transparency
 logo_display = logo_display.convert("RGBA")
@@ -45,4 +45,4 @@ logo_mask = logo_display.split()[3]
 img.paste(logo_display, position, logo_mask)
 
 # Save the QR code with the logo to a file
-img.save("QR/abstract_qr.png")
+img.save("QR/birdi_qr.png")
