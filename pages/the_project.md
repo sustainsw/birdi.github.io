@@ -6,8 +6,4 @@ nav_order: 1
 layout: page
 ---
 
-
 {% include project.html %}
-
-
-
